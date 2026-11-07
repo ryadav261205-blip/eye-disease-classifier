@@ -1,0 +1,26 @@
+{
+    "dataset": "MedMNIST RetinaMNIST (Binary)",
+    "test_samples": 400,
+    "class_distribution": {
+        "Normal": 174,
+        "Diabetic Retinopathy": 226
+    },
+    "confusion_matrix": {
+        "true_positive": 195,
+        "true_negative": 130,
+        "false_positive": 44,
+        "false_negative": 31
+    },
+    "metrics": {
+        "accuracy": 0.8125,
+        "precision": 0.8158995815899581,
+        "recall": 0.8628318584070797,
+        "f1_score": 0.8387096774193548
+    },
+    "sklearn_verification": {
+        "accuracy": 0.8125,
+        "precision": 0.8158995815899581,
+        "recall": 0.8628318584070797,
+        "f1_score": 0.8387096774193549
+    }
+}
